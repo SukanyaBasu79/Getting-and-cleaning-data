@@ -31,7 +31,7 @@ variables from the time and frequency domain. See below for more details.
 
 
 =====================================================================================================
-# DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT INTO A TIDY DATA TABLE
+DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT INTO A TIDY DATA TABLE
 =====================================================================================================
 
 
@@ -55,7 +55,7 @@ variables from the time and frequency domain. See below for more details.
 
 
 ==================================
-# DESCRIPTION OF THE DATA TABLE
+DESCRIPTION OF THE DATA TABLE
 ==================================
 
 The data table has a total of 10299 rows and 563 columns. The rows stand for the number of observations
