@@ -1,6 +1,6 @@
 # Getting-and-cleaning-data
-Final Course Project
-This repo explains how all of the scripts work and how they are connected.
+## Final Course Project:
+## This repo explains how all of the scripts work and how they are connected.
 
 
 The R script is broken down into five broad parts based on the five tasks assigned in the course project. Each part is further broken down into smaller sub-parts each of which accomplishes a specific task as detailed below.
