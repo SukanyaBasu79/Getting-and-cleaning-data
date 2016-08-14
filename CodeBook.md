@@ -12,7 +12,7 @@
 
 
 ==================================
-# DESCRIPTION OF THE EXPERIMENT
+ DESCRIPTION OF THE EXPERIMENT
 ==================================
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
@@ -178,8 +178,11 @@ for ‘vector’ and the numbers after V  correspond to the following long varia
 
 
 1 tBodyAcc-mean()-X
+
 2 tBodyAcc-mean()-Y
+
 3 tBodyAcc-mean()-Z
+
 4 tBodyAcc-std()-X
 5 tBodyAcc-std()-Y
 6 tBodyAcc-std()-Z
