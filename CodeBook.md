@@ -12,7 +12,7 @@
 
 
 ==================================
-DESCRIPTION OF THE EXPERIMENT
+# DESCRIPTION OF THE EXPERIMENT
 ==================================
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
@@ -31,7 +31,7 @@ variables from the time and frequency domain. See below for more details.
 
 
 =====================================================================================================
-DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT INTO A TIDY DATA TABLE
+# DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT INTO A TIDY DATA TABLE
 =====================================================================================================
 
 
@@ -55,7 +55,7 @@ DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT I
 
 
 ==================================
-DESCRIPTION OF THE DATA TABLE
+# DESCRIPTION OF THE DATA TABLE
 ==================================
 
 The data table has a total of 10299 rows and 563 columns. The rows stand for the number of observations
