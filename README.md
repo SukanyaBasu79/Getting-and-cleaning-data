@@ -26,7 +26,7 @@ iv. Combines the data tables called ‘Subject_ID_Train’, ‘Activity_ID_Train
                                              PART 2
    ==========================================================================================
 
-                      (Repeat the steps of part 1 for the testing data set.)
+                      (Repeats the steps of part 1 for the testing data set.)
 
 i.    Reads the subject ID from the testing data text file and store it in a data table called
      'Subject_ID_Test’ with column name 'subject_id’.
