@@ -44,7 +44,7 @@ DESCRIPTION OF STEPS TAKEN TO CLEAN UP THE RAW EXPERIMENTAL DATA AND FORMAT IT I
 3.   Two separate sets of IDs for each observation, namely, a subject ID and an activity ID, were read using R from 
      two separate text files without any headers and stored in two separate data tables with appropriate column names.
 
-4 .  The three data tables from steps 2 and 3 were then combined into a single data table for the training data set.
+4.   The three data tables from steps 2 and 3 were then combined into a single data table for the training data set.
 
 5.   Steps 1-4 were repeated for the 561 testing data variables to give a second data table for the testing data set.
 
