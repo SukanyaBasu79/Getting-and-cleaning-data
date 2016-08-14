@@ -1302,6 +1302,7 @@ for ‘vector’ and the numbers after V  correspond to the following long varia
 
 
 
+
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
 License:
