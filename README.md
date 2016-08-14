@@ -58,7 +58,7 @@ i.     Extracts only the measurements on the mean and standard deviation for eac
        and ‘std’ in them.
 
        These column numbers are then matched to their respective column names which are then 
-       matched  to their long variable names from the text file containing the latter.
+       matched to their long variable names from the text file containing the latter.
 
   ==========================================================================================
                                               PART 5
