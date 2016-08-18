@@ -66,7 +66,7 @@ test <- cbind(subject_test, activity, xtest)
 train_and_test = rbind(train,test)
 
 ##-------------------------------------------------------------------
-## Assign descriptive names to the columns of the combined data set
+## Assign descriptive names to the columns of the merged data set
 ##-------------------------------------------------------------------
 
 names(train_and_test)[1] <- "Subject_ID"
