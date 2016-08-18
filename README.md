@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data: Final Course Project
-## This repo explains how all of the scripts in the R code work and how they are connected.
+## This repo explains how all of the scripts in my R code work and how they are connected.
 
 ## My R code does the following in chronological order:
 
